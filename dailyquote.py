@@ -2,7 +2,7 @@ import requests
 from Adafruit_Thermal import *
 
 QUOTES_API = "https://api.paperquotes.com/apiv1/qod/"
-TOKEN = "4d750d77935fd91ba1195141934443eae2a30084"
+TOKEN = "deleted"
 
 printer = Adafruit_Thermal()
 
